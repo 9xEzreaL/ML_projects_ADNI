@@ -1,6 +1,11 @@
 # ML_projects_ADNI
 ![image](https://github.com/9xEzreaL/ML_projects_ADNI/blob/main/Flowchart_2.png)
 
+
+
+Read more about this project, click "final project_tzu-i and hsuan-ju.pdf" above!!!!!
+
+
 Author : 
 
 
@@ -26,3 +31,5 @@ The data in total consists of 4160 images in Kaggle dataset, 40 images in ADNI d
     • Moderate-demented: 64 images                         • Alzheimer's-Disease: 8 cases
 
 👑 Achieve 97% accuracy in training, 97% accuracy in validation!
+
+
